@@ -7,7 +7,7 @@ pipeline
         {
             steps 
             {
-                echo 'Hola desde GitHub'
+                echo 'Hola desde GitHub.'
             }
         }
     }
